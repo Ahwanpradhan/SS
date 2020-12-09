@@ -1,3 +1,6 @@
+#Frontend designed by Chirantan Banerjee Language used(Javascript)
+#Backend developed by Ahwan pradhan Language used (PHP)
+
 <!DOCTYPE html>
 <html>
 	<head>
@@ -412,7 +415,7 @@
 			<a href="#" class="btn btn-back btn-social mx-2">
 				<i class="fab fa-twitter tweet"></i>
 			</a>
-			<a href="ssconsultancy1968@gmail.com" class="btn btn-back btn-social mx-2">
+			<a href="ssconsultancy1968@gmail.com" class="btn btn-back btn-social mx-3">
 				<i class="fas fa-envelope email"></i>
 			</a>
 		</div>
