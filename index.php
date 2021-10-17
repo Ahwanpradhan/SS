@@ -423,7 +423,7 @@
 </div>
 </footer>
 <!-- FOOTER SECTION ENDS HERE-->
-<!---JAVASCRIPT-->
+<!---JAVASCRIPT FILES -->
 <script src="assets/js/jquery-2.1.0.min.js"></script>
 <script src="assets/js/popper.js"></script>
 <script src="assets/js/owl-carousel.js"></script>
